@@ -1,0 +1,11 @@
+D:\Faculdade\2º Ano\LP II\ExerciciosDePrepParaTesteI\Aula1Ex4\Ex4Fortnite\bin\Debug\netcoreapp2.1\Ex4Fortnite.deps.json
+D:\Faculdade\2º Ano\LP II\ExerciciosDePrepParaTesteI\Aula1Ex4\Ex4Fortnite\bin\Debug\netcoreapp2.1\Ex4Fortnite.runtimeconfig.json
+D:\Faculdade\2º Ano\LP II\ExerciciosDePrepParaTesteI\Aula1Ex4\Ex4Fortnite\bin\Debug\netcoreapp2.1\Ex4Fortnite.runtimeconfig.dev.json
+D:\Faculdade\2º Ano\LP II\ExerciciosDePrepParaTesteI\Aula1Ex4\Ex4Fortnite\bin\Debug\netcoreapp2.1\Ex4Fortnite.dll
+D:\Faculdade\2º Ano\LP II\ExerciciosDePrepParaTesteI\Aula1Ex4\Ex4Fortnite\bin\Debug\netcoreapp2.1\Ex4Fortnite.pdb
+D:\Faculdade\2º Ano\LP II\ExerciciosDePrepParaTesteI\Aula1Ex4\Ex4Fortnite\obj\Debug\netcoreapp2.1\Ex4Fortnite.csprojAssemblyReference.cache
+D:\Faculdade\2º Ano\LP II\ExerciciosDePrepParaTesteI\Aula1Ex4\Ex4Fortnite\obj\Debug\netcoreapp2.1\Ex4Fortnite.csproj.CoreCompileInputs.cache
+D:\Faculdade\2º Ano\LP II\ExerciciosDePrepParaTesteI\Aula1Ex4\Ex4Fortnite\obj\Debug\netcoreapp2.1\Ex4Fortnite.AssemblyInfoInputs.cache
+D:\Faculdade\2º Ano\LP II\ExerciciosDePrepParaTesteI\Aula1Ex4\Ex4Fortnite\obj\Debug\netcoreapp2.1\Ex4Fortnite.AssemblyInfo.cs
+D:\Faculdade\2º Ano\LP II\ExerciciosDePrepParaTesteI\Aula1Ex4\Ex4Fortnite\obj\Debug\netcoreapp2.1\Ex4Fortnite.dll
+D:\Faculdade\2º Ano\LP II\ExerciciosDePrepParaTesteI\Aula1Ex4\Ex4Fortnite\obj\Debug\netcoreapp2.1\Ex4Fortnite.pdb

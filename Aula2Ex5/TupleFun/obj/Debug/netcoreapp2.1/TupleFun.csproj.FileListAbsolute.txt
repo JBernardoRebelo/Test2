@@ -1,0 +1,11 @@
+D:\Faculdade\2º Ano\LP II\ExerciciosDePrepParaTesteI\Aula2Ex5\TupleFun\bin\Debug\netcoreapp2.1\TupleFun.deps.json
+D:\Faculdade\2º Ano\LP II\ExerciciosDePrepParaTesteI\Aula2Ex5\TupleFun\bin\Debug\netcoreapp2.1\TupleFun.runtimeconfig.json
+D:\Faculdade\2º Ano\LP II\ExerciciosDePrepParaTesteI\Aula2Ex5\TupleFun\bin\Debug\netcoreapp2.1\TupleFun.runtimeconfig.dev.json
+D:\Faculdade\2º Ano\LP II\ExerciciosDePrepParaTesteI\Aula2Ex5\TupleFun\bin\Debug\netcoreapp2.1\TupleFun.dll
+D:\Faculdade\2º Ano\LP II\ExerciciosDePrepParaTesteI\Aula2Ex5\TupleFun\bin\Debug\netcoreapp2.1\TupleFun.pdb
+D:\Faculdade\2º Ano\LP II\ExerciciosDePrepParaTesteI\Aula2Ex5\TupleFun\obj\Debug\netcoreapp2.1\TupleFun.csprojAssemblyReference.cache
+D:\Faculdade\2º Ano\LP II\ExerciciosDePrepParaTesteI\Aula2Ex5\TupleFun\obj\Debug\netcoreapp2.1\TupleFun.csproj.CoreCompileInputs.cache
+D:\Faculdade\2º Ano\LP II\ExerciciosDePrepParaTesteI\Aula2Ex5\TupleFun\obj\Debug\netcoreapp2.1\TupleFun.AssemblyInfoInputs.cache
+D:\Faculdade\2º Ano\LP II\ExerciciosDePrepParaTesteI\Aula2Ex5\TupleFun\obj\Debug\netcoreapp2.1\TupleFun.AssemblyInfo.cs
+D:\Faculdade\2º Ano\LP II\ExerciciosDePrepParaTesteI\Aula2Ex5\TupleFun\obj\Debug\netcoreapp2.1\TupleFun.dll
+D:\Faculdade\2º Ano\LP II\ExerciciosDePrepParaTesteI\Aula2Ex5\TupleFun\obj\Debug\netcoreapp2.1\TupleFun.pdb

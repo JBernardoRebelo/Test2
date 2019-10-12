@@ -1,0 +1,11 @@
+D:\Faculdade\2º Ano\LP II\Test1\ConsoleApp1\bin\Debug\netcoreapp2.1\MyInterFaces.deps.json
+D:\Faculdade\2º Ano\LP II\Test1\ConsoleApp1\bin\Debug\netcoreapp2.1\MyInterFaces.runtimeconfig.json
+D:\Faculdade\2º Ano\LP II\Test1\ConsoleApp1\bin\Debug\netcoreapp2.1\MyInterFaces.runtimeconfig.dev.json
+D:\Faculdade\2º Ano\LP II\Test1\ConsoleApp1\bin\Debug\netcoreapp2.1\MyInterFaces.dll
+D:\Faculdade\2º Ano\LP II\Test1\ConsoleApp1\bin\Debug\netcoreapp2.1\MyInterFaces.pdb
+D:\Faculdade\2º Ano\LP II\Test1\ConsoleApp1\obj\Debug\netcoreapp2.1\MyInterFaces.csprojAssemblyReference.cache
+D:\Faculdade\2º Ano\LP II\Test1\ConsoleApp1\obj\Debug\netcoreapp2.1\MyInterFaces.csproj.CoreCompileInputs.cache
+D:\Faculdade\2º Ano\LP II\Test1\ConsoleApp1\obj\Debug\netcoreapp2.1\MyInterFaces.AssemblyInfoInputs.cache
+D:\Faculdade\2º Ano\LP II\Test1\ConsoleApp1\obj\Debug\netcoreapp2.1\MyInterFaces.AssemblyInfo.cs
+D:\Faculdade\2º Ano\LP II\Test1\ConsoleApp1\obj\Debug\netcoreapp2.1\MyInterFaces.dll
+D:\Faculdade\2º Ano\LP II\Test1\ConsoleApp1\obj\Debug\netcoreapp2.1\MyInterFaces.pdb
