@@ -1,0 +1,11 @@
+D:\Faculdade\2º Ano\LP II\ExerciciosDePrepParaTesteI\Test2\Aula2Ex10\4xMilitary\bin\Debug\netcoreapp2.1\4xMilitary.deps.json
+D:\Faculdade\2º Ano\LP II\ExerciciosDePrepParaTesteI\Test2\Aula2Ex10\4xMilitary\bin\Debug\netcoreapp2.1\4xMilitary.runtimeconfig.json
+D:\Faculdade\2º Ano\LP II\ExerciciosDePrepParaTesteI\Test2\Aula2Ex10\4xMilitary\bin\Debug\netcoreapp2.1\4xMilitary.runtimeconfig.dev.json
+D:\Faculdade\2º Ano\LP II\ExerciciosDePrepParaTesteI\Test2\Aula2Ex10\4xMilitary\bin\Debug\netcoreapp2.1\4xMilitary.dll
+D:\Faculdade\2º Ano\LP II\ExerciciosDePrepParaTesteI\Test2\Aula2Ex10\4xMilitary\bin\Debug\netcoreapp2.1\4xMilitary.pdb
+D:\Faculdade\2º Ano\LP II\ExerciciosDePrepParaTesteI\Test2\Aula2Ex10\4xMilitary\obj\Debug\netcoreapp2.1\4xMilitary.csprojAssemblyReference.cache
+D:\Faculdade\2º Ano\LP II\ExerciciosDePrepParaTesteI\Test2\Aula2Ex10\4xMilitary\obj\Debug\netcoreapp2.1\4xMilitary.csproj.CoreCompileInputs.cache
+D:\Faculdade\2º Ano\LP II\ExerciciosDePrepParaTesteI\Test2\Aula2Ex10\4xMilitary\obj\Debug\netcoreapp2.1\4xMilitary.AssemblyInfoInputs.cache
+D:\Faculdade\2º Ano\LP II\ExerciciosDePrepParaTesteI\Test2\Aula2Ex10\4xMilitary\obj\Debug\netcoreapp2.1\4xMilitary.AssemblyInfo.cs
+D:\Faculdade\2º Ano\LP II\ExerciciosDePrepParaTesteI\Test2\Aula2Ex10\4xMilitary\obj\Debug\netcoreapp2.1\4xMilitary.dll
+D:\Faculdade\2º Ano\LP II\ExerciciosDePrepParaTesteI\Test2\Aula2Ex10\4xMilitary\obj\Debug\netcoreapp2.1\4xMilitary.pdb
